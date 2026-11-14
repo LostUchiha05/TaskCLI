@@ -53,9 +53,13 @@ python todoCli.py update 1 -D "Finish and test Python project" -P "Mark-in-done"
 5. Delete a Task
 Bash
 python todoCli.py del 1
-💡 Future Improvements
-Add a clear command to wipe all tasks.
 
-Implement task priorities (High, Medium, Low).
+<h3>💡 Future Improvements</h3>
+<ul>
+<li>Add a clear command to wipe all tasks.</li>
+<li>Implement task priorities (High, Medium, Low).</li>
+<li>Add timestamps for completion tracking.</li>
+</ul>
 
-Add timestamps for completion tracking.
+<img src="Screenshot 2026-11-14 175247.jpg">
+<img src="Screenshot 2026-11-14 175437.jpg">
