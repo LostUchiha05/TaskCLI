@@ -60,7 +60,8 @@ python todoCli.py del 1
 <li>Implement task priorities (High, Medium, Low).</li>
 <li>Add timestamps for completion tracking.</li>
 </ul>
-
+<br>
 https://roadmap.sh/projects/task-tracker
+<br>
 <img src="Screenshot 2026-11-14 175247.jpg">
 <img src="Screenshot 2026-11-14 175437.jpg">
